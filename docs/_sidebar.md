@@ -77,6 +77,14 @@
 
   - [NFC碰碰贴](automation_nfc.md)
 
+- bluetooth
+
+  - [卡片集合](plug_dev_card.md)
+  - [自定义Lovelace卡片](plug_dev_custom_card.md)
+  - [自定义状态卡片](plug_dev_custom_state_card.md)
+  - [自定义面板](plug_dev_custom_panel.md)
+  - [挂墙平板 - 磁贴界面](plug_dev_TileBoard.md)
+
 
 - 更多知识
   
